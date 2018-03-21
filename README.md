@@ -5,8 +5,9 @@ Experiments using synaptic.js JavaScript neural net library.
 
 1. Clone the repo.
 2. In console, `npm install`.
-3. Run `node ./contractEvaluatorExample.js` to see example training and resulting behaviour of a network to evaluate software development opportunities based on whether it's a permanent or contract role, how far away the site is, and whether there is an opportunity to work from home.
+3. Run `node ./contractEvaluatorExample.js` to see example training and resulting behaviour of a network to evaluate software development opportunities. 
 
-The training in this case involves me telling it my preference for contract work, the nearer the better, unless remote work is an option.
+   This is based on whether it's a permanent or contract role, how far away the site is, and whether there is an opportunity to work from home.
+   The training in this case involves me telling it my preference for contract work, the nearer the better, unless remote work is an option.
 
 
